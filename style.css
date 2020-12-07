@@ -1,0 +1,161 @@
+
+body{
+ /* aqui va mi agregado al body hola */
+  height: height: 100%; /* Used to enable scrolling */
+  background: linear-gradient(55deg, #ddedf3 0%, #ddedf3 51%, #ddedf3 85%);
+font-family: 'Darker Grotesque', sans-serif;
+overflow-x:hidden;
+}
+img.wid{
+	width: 100%;
+	background-size: cover;
+}
+img.widder{
+	width: 120%;
+	margin-left:-10%;
+	margin-top: 10%;
+}
+img.map{
+	height: 30%;
+	background-size: cover;
+}
+img.ico{
+	height: 100%;
+}
+img.tit{
+	width: 100%;
+}
+img.book{
+	width: 120%;
+	margin-left: -10%;
+	padding-top: 10%;
+}
+.plant{
+	width: 100%;
+	height: auto;
+}
+.titulo{
+	padding-top: 40%;
+}
+.lalo{
+	padding-left: 20%;
+	padding-bottom: 200px;
+}
+.titext{
+	position: absolute;
+	top: 50%;
+ 	width: 100%;
+    text-align: center;
+}
+.titextminus{
+	position: absolute;
+	top: 42%;
+ 	width: 100%;
+    text-align: center;
+}
+.titextplus{
+	position: absolute;
+	top: 58%;
+ 	width: 100%;
+    text-align: center;
+}
+.esconder{
+	display:none;
+}
+.mapajs{
+	/*opacity:0;*/
+	/* background-image:url('img/chilemap2.png'); */
+}
+.fondomapa{
+	width:105%;
+	position:absolute;
+	top:4240px;
+	z-index:-21;
+}
+.consti{
+	padding-left:15%;
+	padding-right:15%;
+}
+.prebook{
+	margin-bottom:-20%;
+}
+hr.solid {
+    border-top: 2px solid #999;
+}
+.section-heading{
+	font-family: 'DM Serif Display', serif;
+}
+
+h4{
+	font-family: 'DM Serif Display', serif;
+	font-size: 30px;
+}
+h1{
+	font-family: 'DM Serif Display', serif;
+}
+h3 {
+	font-family: 'DM Serif Display', serif;
+	font-size: 36px;
+}
+p{
+	font-size: 24px;
+	font-weight: 700;
+}
+footer{
+	margin-left: 10%;
+}
+@media (max-width:700px){
+	img.wid{
+		width: 100%;
+	}
+	img.tit{
+		height: 100%;
+	}
+	img.map{
+	width:100%;
+    align-items: center;
+    justify-content: center;
+	}
+	img.book{
+	padding-top:130%;
+	width:140%;
+	margin-left:-20%;
+	}
+	p{
+	font-size: 18px;
+	font-weight: 700;
+	}
+	h4{
+	font-size: 24px;
+	}
+	.plant{
+		width: 200%;
+		margin-top: 65%;
+		margin-left:-50px;
+	}
+	.titext{
+		top: 30%;
+	}
+	.titextminus{
+		top: 25%;
+	}
+	.titextplus{
+		top: 40%;
+	}
+	.fondomapa{
+	width:105%;
+	position:absolute;
+	top:4250px;
+	z-index:-21;
+	}
+	.consti{
+	padding-left:0%;
+	padding-right:0%;
+	}
+	.prebook{
+	margin-bottom:-150%;
+	}
+	footer{
+		font-size:1rem;
+	}
+} /* Aqui termina el media pa celu */
