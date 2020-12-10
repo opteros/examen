@@ -5,25 +5,30 @@
 <style type="text/css">
 	.st0{fill:#F9BD6A;}
 	.st1{fill:#9DD1BC;}
-	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st3{fill:none;}
-	.st4{font-family:'Montserrat-Regular';}
-	.st5{font-size:24px;}
-	.st6{fill:#1B6889;}
-	.st7{font-family:'Montserrat-SemiBold';}
-	.st8{font-size:40px;}
-	.st9{font-size:32.9126px;}
-	.st10{clip-path:url(#SVGID_2_);}
-	.st11{clip-path:url(#SVGID_4_);}
-	.st12{clip-path:url(#SVGID_6_);}
-	.st13{fill:#202020;}
-	.st14{fill:#3CB28E;}
-	.st15{fill:#84C1AB;}
-	.st16{fill:#639FAD;}
-	.st17{fill:#97C1CE;}
-	.st18{clip-path:url(#SVGID_8_);}
-	.st19{fill:none;stroke:#1B6889;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{font-family:'DarkerGrotesque-ExtraBold';}
+	.st4{font-size:44px;}
+	.st5{font-family:'DarkerGrotesque-Medium';}
+	.st6{font-family:'DarkerGrotesque-SemiBold';}
+	.st7{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st8{font-size:36px;}
+	.st9{fill:#1B6889;}
+	.st10{font-size:48px;}
+	.st11{clip-path:url(#SVGID_2_);}
+	.st12{clip-path:url(#SVGID_4_);}
+	.st13{clip-path:url(#SVGID_6_);}
+	.st14{fill:#202020;}
+	.st15{fill:#3CB28E;}
+	.st16{fill:#84C1AB;}
+	.st17{fill:#639FAD;}
+	.st18{fill:#97C1CE;}
+	.st19{clip-path:url(#SVGID_8_);}
+	.st20{fill:none;stroke:#1B6889;stroke-width:3;stroke-miterlimit:10;}
 </style>
+<g>
+	<rect x="483.8" y="605.9" class="st2" width="521.2" height="95.1"/>
+	<text transform="matrix(1 0 0 1 483.75 640.2598)"><tspan x="0" y="0" class="st3 st4">Riesgo = </tspan><tspan x="0" y="38" class="st5 st4">Toxicidad </tspan><tspan x="212.8" y="38" class="st6 st4">x</tspan><tspan x="231.8" y="38" class="st5 st4"> Exposición</tspan></text>
+</g>
 <circle class="st1" cx="402.8" cy="204.2" r="36.8"/>
 <circle class="st1" cx="480.3" cy="247.8" r="36.8"/>
 <circle class="st1" cx="498.2" cy="350.8" r="36.8"/>
@@ -34,48 +39,47 @@
 		c-27.4-7.8-67.8-19.4-94,2c-26.6,21.7-32.5,72.3-12,99c22.9,29.8,64.8,11.4,169,13c141.3,2.2,196.9,38.1,233,0
 		c23.6-25,29.4-71.9,16-82C1311.4,974,1302,979.5,1285,984z"/>
 </g>
-<rect x="488" y="490.9" class="st3" width="350" height="96.1"/>
-<text transform="matrix(1 0 0 1 488.0493 508.6855)"><tspan x="0" y="0" class="st4 st5">El riesgo de uso depende de </tspan><tspan x="0" y="28.8" class="st4 st5">la toxicidad del pesticida, y la </tspan><tspan x="0" y="57.6" class="st4 st5">duración de la exposición. </tspan></text>
-<rect x="697" y="164.9" class="st3" width="288" height="155.1"/>
-<text transform="matrix(1 0 0 1 697.0493 182.6855)"><tspan x="0" y="0" class="st4 st5">Inhalación respiratoria</tspan><tspan x="0" y="60" class="st4 st5">Al alimentarse</tspan><tspan x="0" y="120" class="st4 st5">Contacto con la piel</tspan></text>
+<rect x="483.8" y="466" class="st2" width="385" height="121"/>
+<text transform="matrix(1 0 0 1 483.7499 486.2676)"><tspan x="0" y="0" class="st5 st8">El riesgo de uso depende de </tspan><tspan x="0" y="38" class="st5 st8">la toxicidad del pesticida, y </tspan><tspan x="0" y="76" class="st5 st8">la duración de la exposición. </tspan></text>
+<rect x="697" y="164.9" class="st2" width="288" height="155.1"/>
+<text transform="matrix(1 0 0 1 697.0493 185.1455)"><tspan x="0" y="0" class="st5 st8">Inhalación </tspan><tspan x="0" y="60" class="st5 st8">respiratoria</tspan><tspan x="0" y="120" class="st5 st8">Al alimentarse</tspan></text>
 <g>
-	<rect x="553" y="106" class="st3" width="571" height="42"/>
-	<text transform="matrix(1 0 0 1 553 135.6797)" class="st6 st7 st8">FUENTES DE Exposición</text>
+	<rect x="553" y="106" class="st2" width="603" height="42"/>
+	<text transform="matrix(1 0 0 1 553 133.0234)" class="st9 st3 st10">FUENTES DE Exposición</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 488.0494 628.8496)"><tspan x="0" y="0" class="st7 st9">Riesgo = </tspan><tspan x="0" y="39.5" class="st4 st9">Toxicidad x Exposición</tspan></text>
+	<rect x="1270" y="323" class="st2" width="574" height="87"/>
+	<text transform="matrix(1 0 0 1 1270.0498 343.2676)"><tspan x="0" y="0" class="st5 st8">Esto se debe a la relación de su cuerpo y </tspan><tspan x="0" y="38" class="st5 st8">su peso, además de su comportamiento.</tspan></text>
 </g>
-<rect x="1308" y="351" class="st3" width="492" height="58"/>
-<text transform="matrix(1 0 0 1 1308.0498 368.8076)"><tspan x="0" y="0" class="st4 st5">Esto se debe a la relación de su cuerpo y </tspan><tspan x="0" y="28.8" class="st4 st5">su peso, además de su comportamiento.</tspan></text>
 <g>
-	<rect x="1308" y="278.9" class="st3" width="457" height="63.1"/>
-	<text transform="matrix(1 0 0 1 1308.0498 296.6855)"><tspan x="0" y="0" class="st6 st7 st5">Son más sensibles a efectos </tspan><tspan x="0" y="28.8" class="st6 st7 st5">tóxicos de los pesticidas</tspan></text>
+	<rect x="1270" y="219.9" class="st2" width="399" height="63.1"/>
+	<text transform="matrix(1 0 0 1 1270.0498 240.1455)"><tspan x="0" y="0" class="st9 st5 st8">Son más sensibles a efectos </tspan><tspan x="0" y="36" class="st9 st5 st8">tóxicos de los pesticidas</tspan></text>
 </g>
-<line class="st2" x1="1134.5" y1="873.5" x2="1164.5" y2="740.5"/>
+<line class="st7" x1="1134.5" y1="873.5" x2="1164.5" y2="740.5"/>
 <g>
 	<g>
-		<rect x="1377" y="652" class="st3" width="207" height="37"/>
-		<text transform="matrix(1 0 0 1 1377.0498 669.8076)" class="st7 st5">Boca</text>
+		<rect x="1377" y="652" class="st2" width="207" height="37"/>
+		<text transform="matrix(1 0 0 1 1377.0498 672.2676)" class="st5 st8">Boca</text>
 	</g>
-	<rect x="1377" y="683.3" class="st3" width="423" height="78.7"/>
-	<text transform="matrix(1 0 0 1 1377.0496 701.1572)"><tspan x="0" y="0" class="st4 st5">Los niños pequeños son más </tspan><tspan x="0" y="28.8" class="st4 st5">propensos a poner sus dedos, </tspan><tspan x="0" y="57.6" class="st4 st5">juguetes y otros objetos a la boca.</tspan></text>
+	<rect x="1377" y="683.3" class="st2" width="423" height="78.7"/>
+	<text transform="matrix(1 0 0 1 1377.0496 703.6172)"><tspan x="0" y="0" class="st5 st8">Los niños pequeños son más </tspan><tspan x="0" y="38" class="st5 st8">propensos a poner sus dedos, </tspan></text>
 </g>
 <g>
 	<g>
-		<rect x="1377" y="821" class="st3" width="100" height="37"/>
-		<text transform="matrix(1 0 0 1 1377.0498 838.8076)" class="st7 st5">Suelo</text>
+		<rect x="1377" y="821" class="st2" width="100" height="37"/>
+		<text transform="matrix(1 0 0 1 1377.0498 841.2676)" class="st5 st8">Suelo</text>
 	</g>
-	<rect x="1377" y="853.3" class="st3" width="395.8" height="87.7"/>
-	<text transform="matrix(1 0 0 1 1377.0496 871.1572)"><tspan x="0" y="0" class="st4 st5">Los bebes y niños suelen pasar </tspan><tspan x="0" y="28.8" class="st4 st5">en el suelo, donde los pesticidas </tspan><tspan x="0" y="57.6" class="st4 st5">pueden haber sido aplicados.</tspan></text>
+	<rect x="1377" y="853.3" class="st2" width="395.8" height="87.7"/>
+	<text transform="matrix(1 0 0 1 1377.0496 873.6172)"><tspan x="0" y="0" class="st5 st8">Los bebes y niños suelen </tspan><tspan x="0" y="38" class="st5 st8">pasar en el suelo, donde los </tspan></text>
 </g>
 <g>
-	<rect x="1377" y="480" class="st3" width="317" height="37"/>
-	<text transform="matrix(1 0 0 1 1377.0498 497.8076)" class="st7 st5">Cerebro y órganos</text>
-	<rect x="1377" y="514" class="st3" width="431.8" height="98"/>
-	<text transform="matrix(1 0 0 1 1377.0496 531.8076)"><tspan x="0" y="0" class="st4 st5">El cerebro, el sistema nervioso y los </tspan><tspan x="0" y="28.8" class="st4 st5">órganos de un bebé aún están en </tspan><tspan x="0" y="57.6" class="st4 st5">desarrollo después del nacimiento.</tspan></text>
+	<rect x="1377" y="480" class="st2" width="317" height="37"/>
+	<text transform="matrix(1 0 0 1 1377.0498 500.2676)" class="st5 st8">Cerebro y órganos</text>
+	<rect x="1377" y="514" class="st2" width="431.8" height="98"/>
+	<text transform="matrix(1 0 0 1 1377.0496 534.2676)"><tspan x="0" y="0" class="st5 st8">El cerebro, el sistema nervioso y </tspan><tspan x="0" y="38" class="st5 st8">los órganos de un bebé aún </tspan><tspan x="0" y="76" class="st5 st8">están en desarrollo después del </tspan></text>
 </g>
 <g>
-	<path class="st2" d="M1322.9,583.5c0,52.5-25.9,98.9-65.6,127.2c-25.5,18.1-56.7,28.8-90.4,28.8c-86.2,0-156-69.8-156-156
+	<path class="st7" d="M1322.9,583.5c0,52.5-25.9,98.9-65.6,127.2c-25.5,18.1-56.7,28.8-90.4,28.8c-86.2,0-156-69.8-156-156
 		s69.8-156,156-156C1253,427.5,1322.9,497.3,1322.9,583.5z"/>
 	<path class="st0" d="M1197.1,547.2c3.4-2.8,2.2-5.3,6.9-12.1c2.6-3.7,4.4-5,6-6.9c8-9.2,6.6-24,6-29.4c-0.5-4.7-1.6-16.6-10.4-26.8
 		c-13.1-15.3-33.4-15.5-42.3-15.6c-9.7-0.1-30.7-0.3-44.1,15.6c-7.3,8.7-13.8,23.8-8.6,37.2c3.8,9.8,12.8,15.7,16.4,18.1
@@ -92,7 +96,7 @@
 	<clipPath id="SVGID_2_">
 		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 	</clipPath>
-	<g class="st10">
+	<g class="st11">
 		<path d="M1232,809c2.2,0.8,4.4,1.3,6.5,2.3c3.8,1.9,7.7,3.6,11.1,6c7.9,5.6,14.8,12.1,20.1,20.4c6.7,10.4,5.1,25.5-3.6,34.1
 			c-3.9,3.8-6.8,8.5-10.1,12.9c-0.5,0.6-1.1,1.5-1.1,2.2c1.2,9.8-7.4,11.3-12.9,15.7c-2.3,1.8-3.7,4.5-5.6,6.7
 			c-2,2.3-4.2,4.5-7.1,6.5c2.2,9.5,0.5,20,5.6,29.8c6.5,12.5,10.8,26,10.9,40.4c0,2.3,0.6,4.6,0.7,6.9c0.2,4.6,2.4,7,7,8.2
@@ -175,10 +179,10 @@
 			C1043.5,964.8,1043.4,964.8,1043.3,964.9z"/>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 1307.2754 257.4355)" class="st6 st7 st8">BEBES Y NIÑOS</text>
-<polyline class="st2" points="435.5,204.5 488.5,173.5 663.5,173.5 "/>
-<line class="st2" x1="663.5" y1="236.2" x2="515.2" y2="236.2"/>
-<polyline class="st2" points="663.5,299.3 541.5,299.3 517.5,320 "/>
+<text transform="matrix(1 0 0 1 1269.2754 205.4355)" class="st9 st3 st10">BEBES Y NIÑOS</text>
+<polyline class="st7" points="435.5,204.5 488.5,173.5 663.5,173.5 "/>
+<line class="st7" x1="663.5" y1="236.2" x2="515.2" y2="236.2"/>
+<polyline class="st7" points="663.5,299.3 541.5,299.3 517.5,320 "/>
 <g>
 	<defs>
 		<polygon id="SVGID_5_" points="246.4,1019.4 279.4,1041 328.4,1041 304,1005 371,1015 401,1031 498.8,1019.4 462.9,1005 
@@ -187,39 +191,39 @@
 	<clipPath id="SVGID_4_">
 		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
 	</clipPath>
-	<g class="st11">
+	<g class="st12">
 		<g>
 			<g>
 				<g>
-					<path class="st13" d="M1653,999c0.8,0.2,0.3,0-1.8-0.3l-1.5-0.1l1.7,0.1L1653,999z"/>
-					<path class="st13" d="M1638.5,998.1c-2.5-0.1-5.5-0.1-3.8,0c2.5,0,3.1,0.1,5.8,0.1c2.2,0.1,3.8,0.1,3.4,0.1
+					<path class="st14" d="M1653,999c0.8,0.2,0.3,0-1.8-0.3l-1.5-0.1l1.7,0.1L1653,999z"/>
+					<path class="st14" d="M1638.5,998.1c-2.5-0.1-5.5-0.1-3.8,0c2.5,0,3.1,0.1,5.8,0.1c2.2,0.1,3.8,0.1,3.4,0.1
 						c0.8,0,3.3,0.2,4.5,0.2c-2.8-0.2-6.4-0.3-10.1-0.4C1637.6,998.1,1638.3,998.1,1638.5,998.1z"/>
-					<path class="st13" d="M1428,1005.6l1.3-0.2C1429,1005.5,1428.5,1005.5,1428,1005.6z"/>
-					<path class="st13" d="M1297.7,1014.3c1,0,1.4-0.1,1.5-0.1C1298.3,1014.3,1297.5,1014.3,1297.7,1014.3z"/>
-					<path class="st13" d="M1275.4,1014.9c0.5,0,0.9,0,1.3,0C1276.2,1014.8,1275.7,1014.8,1275.4,1014.9z"/>
-					<path class="st13" d="M1428,1005.6c-1.2,0.1-2.3,0.3-3.5,0.4C1424.3,1006.1,1426.3,1005.8,1428,1005.6z"/>
-					<path class="st13" d="M1609.5,997.9c0.7,0,1.3,0,1.9,0c-0.6,0-1.2,0-1.8,0C1609.5,997.9,1609.5,997.9,1609.5,997.9z"/>
-					<path class="st13" d="M1485.3,1000.3l1.1,0c0.3,0,0.6-0.1,0.9-0.1L1485.3,1000.3z"/>
-					<path class="st13" d="M1529.5,998.8c-1,0-1.3,0.1-1.7,0.2c0.6-0.1,1.3-0.1,2.2-0.1C1530,998.8,1529.8,998.8,1529.5,998.8z"/>
-					<path class="st13" d="M1599.6,997.8l1.2,0C1600.5,997.8,1599.9,997.8,1599.6,997.8z"/>
-					<path class="st13" d="M1453.7,1002.1c-0.1,0-0.2,0-0.4,0C1453.3,1002.1,1453.5,1002.1,1453.7,1002.1z"/>
-					<path class="st13" d="M220.1,1037.1C220.1,1037.1,220.1,1037.1,220.1,1037.1C219.8,1037.1,219.7,1037.1,220.1,1037.1z"/>
-					<path class="st13" d="M169,1041l0.7-0.1c0.1,0,0.1,0,0.2,0L169,1041z"/>
-					<path class="st13" d="M1234.6,1015.7c0.1,0,0.1,0,0.2,0C1235.9,1015.6,1235.3,1015.6,1234.6,1015.7z"/>
-					<path class="st13" d="M860.5,1001.3c4.2,0.3-6.9,0.3-0.5,0.6C859.4,1001.8,865.8,1001.5,860.5,1001.3z"/>
-					<path class="st13" d="M1608.3,997.9c-0.6,0-1.2,0-1.8,0C1607.3,998,1607.9,998,1608.3,997.9z"/>
-					<path class="st13" d="M860,1001.9L860,1001.9l0.7,0C860.4,1001.9,860.2,1001.9,860,1001.9z"/>
-					<path class="st13" d="M1140.7,1015.6c0.2,0.1,0.6,0.1,1,0.1C1141.6,1015.7,1141.4,1015.7,1140.7,1015.6z"/>
-					<path class="st13" d="M1210.7,1016.5l-1.7,0C1209.6,1016.5,1210.2,1016.5,1210.7,1016.5z"/>
-					<path class="st13" d="M1104.4,1014c-0.9-0.1-1.3-0.2-2.5-0.2c0.1,0,0.2,0,0.4,0.1C1102.7,1013.8,1103.3,1013.9,1104.4,1014z"/>
-					<path class="st13" d="M1066.8,1009.5c0.2,0,0.5,0.1,0.7,0.1c0.4,0,0.8,0.1,1.2,0.1L1066.8,1009.5z"/>
-					<path class="st13" d="M334.8,1028.3c-0.8,0-1.3,0-1.8,0C333.7,1028.4,328.1,1028.8,334.8,1028.3z"/>
-					<path class="st13" d="M1609.4,997.9c-0.2,0-0.5,0-1.1,0c0.4,0,0.9,0,1.3,0C1609.7,997.9,1609.7,997.9,1609.4,997.9z"/>
-					<path class="st13" d="M1102.7,1016l-6-0.6C1098.3,1015.6,1100.5,1015.8,1102.7,1016z"/>
-					<path class="st13" d="M605.7,1008.6l-1.4,0.1C604.9,1008.7,605.4,1008.7,605.7,1008.6z"/>
-					<path class="st13" d="M1078.8,1013.2c-1-0.2-2.2-0.4-3.3-0.6c-0.2,0-0.5,0-0.7,0L1078.8,1013.2z"/>
-					<path class="st13" d="M333,1028.3C333.1,1028.3,333.1,1028.3,333,1028.3C333.1,1028.3,333.1,1028.3,333,1028.3z"/>
-					<path class="st13" d="M293.6,1031.6c5.7-0.4,2.7-0.3,3.9-0.5c6.8-0.6,3.2-0.1,5.5-0.2c4.3-0.4,7.5-0.7,10.7-1
+					<path class="st14" d="M1428,1005.6l1.3-0.2C1429,1005.5,1428.5,1005.5,1428,1005.6z"/>
+					<path class="st14" d="M1297.7,1014.3c1,0,1.4-0.1,1.5-0.1C1298.3,1014.3,1297.5,1014.3,1297.7,1014.3z"/>
+					<path class="st14" d="M1275.4,1014.9c0.5,0,0.9,0,1.3,0C1276.2,1014.8,1275.7,1014.8,1275.4,1014.9z"/>
+					<path class="st14" d="M1428,1005.6c-1.2,0.1-2.3,0.3-3.5,0.4C1424.3,1006.1,1426.3,1005.8,1428,1005.6z"/>
+					<path class="st14" d="M1609.5,997.9c0.7,0,1.3,0,1.9,0c-0.6,0-1.2,0-1.8,0C1609.5,997.9,1609.5,997.9,1609.5,997.9z"/>
+					<path class="st14" d="M1485.3,1000.3l1.1,0c0.3,0,0.6-0.1,0.9-0.1L1485.3,1000.3z"/>
+					<path class="st14" d="M1529.5,998.8c-1,0-1.3,0.1-1.7,0.2c0.6-0.1,1.3-0.1,2.2-0.1C1530,998.8,1529.8,998.8,1529.5,998.8z"/>
+					<path class="st14" d="M1599.6,997.8l1.2,0C1600.5,997.8,1599.9,997.8,1599.6,997.8z"/>
+					<path class="st14" d="M1453.7,1002.1c-0.1,0-0.2,0-0.4,0C1453.3,1002.1,1453.5,1002.1,1453.7,1002.1z"/>
+					<path class="st14" d="M220.1,1037.1C220.1,1037.1,220.1,1037.1,220.1,1037.1C219.8,1037.1,219.7,1037.1,220.1,1037.1z"/>
+					<path class="st14" d="M169,1041l0.7-0.1c0.1,0,0.1,0,0.2,0L169,1041z"/>
+					<path class="st14" d="M1234.6,1015.7c0.1,0,0.1,0,0.2,0C1235.9,1015.6,1235.3,1015.6,1234.6,1015.7z"/>
+					<path class="st14" d="M860.5,1001.3c4.2,0.3-6.9,0.3-0.5,0.6C859.4,1001.8,865.8,1001.5,860.5,1001.3z"/>
+					<path class="st14" d="M1608.3,997.9c-0.6,0-1.2,0-1.8,0C1607.3,998,1607.9,998,1608.3,997.9z"/>
+					<path class="st14" d="M860,1001.9L860,1001.9l0.7,0C860.4,1001.9,860.2,1001.9,860,1001.9z"/>
+					<path class="st14" d="M1140.7,1015.6c0.2,0.1,0.6,0.1,1,0.1C1141.6,1015.7,1141.4,1015.7,1140.7,1015.6z"/>
+					<path class="st14" d="M1210.7,1016.5l-1.7,0C1209.6,1016.5,1210.2,1016.5,1210.7,1016.5z"/>
+					<path class="st14" d="M1104.4,1014c-0.9-0.1-1.3-0.2-2.5-0.2c0.1,0,0.2,0,0.4,0.1C1102.7,1013.8,1103.3,1013.9,1104.4,1014z"/>
+					<path class="st14" d="M1066.8,1009.5c0.2,0,0.5,0.1,0.7,0.1c0.4,0,0.8,0.1,1.2,0.1L1066.8,1009.5z"/>
+					<path class="st14" d="M334.8,1028.3c-0.8,0-1.3,0-1.8,0C333.7,1028.4,328.1,1028.8,334.8,1028.3z"/>
+					<path class="st14" d="M1609.4,997.9c-0.2,0-0.5,0-1.1,0c0.4,0,0.9,0,1.3,0C1609.7,997.9,1609.7,997.9,1609.4,997.9z"/>
+					<path class="st14" d="M1102.7,1016l-6-0.6C1098.3,1015.6,1100.5,1015.8,1102.7,1016z"/>
+					<path class="st14" d="M605.7,1008.6l-1.4,0.1C604.9,1008.7,605.4,1008.7,605.7,1008.6z"/>
+					<path class="st14" d="M1078.8,1013.2c-1-0.2-2.2-0.4-3.3-0.6c-0.2,0-0.5,0-0.7,0L1078.8,1013.2z"/>
+					<path class="st14" d="M333,1028.3C333.1,1028.3,333.1,1028.3,333,1028.3C333.1,1028.3,333.1,1028.3,333,1028.3z"/>
+					<path class="st14" d="M293.6,1031.6c5.7-0.4,2.7-0.3,3.9-0.5c6.8-0.6,3.2-0.1,5.5-0.2c4.3-0.4,7.5-0.7,10.7-1
 						c0.2,0,0.9,0,0.1,0.1c4.5-0.5,13.4-1,18.6-1.6c0.4,0,0.6,0,0.7,0c-0.9,0-1-0.1-0.8-0.2c2.6-0.2,4.7-0.5,5.7-0.4
 						c-1.6,0.1-1.7,0.2-2.4,0.3l2.7-0.3c2.4,0-3.7,0.3-3.7,0.5c5.2-0.5,11.3-1.1,15.3-1.3c0.9,0.1-9.4,0.8-4,0.5l-6.2,0.4
 						c4.8-0.1-3.8,0.3,0.6,0.2c8.2-0.6,9.1-0.7,17.3-1.3c1.8-0.2-0.6-0.1,1.2-0.3c11.6-1.1,9.2-0.3,17.6-1.1c2.2-0.3,3-0.6,9.1-0.9
@@ -307,30 +311,30 @@
 						L427,1021.1c-1.1,0.1-2.1,0.2-2.8,0.2C424.8,1021.2,425.6,1021.2,427,1021.1z M438.2,1020.2c-1.4,0.1-3.1,0.2-4.9,0.4
 						c-0.4,0,0-0.1,1.2-0.2C433.9,1020.5,436.6,1020.3,438.2,1020.2z M414.4,1020.8c1.8-0.2,2.4-0.2,2.6-0.2
 						c-0.8,0.1-1.8,0.2-3.1,0.3c-0.1,0-0.2,0-0.2,0C413.9,1020.9,414.1,1020.9,414.4,1020.8z"/>
-					<path class="st13" d="M411.3,1021.3c-0.3,0-0.4,0-0.7,0.1c0.4,0,0.7,0,1.1,0c0.2,0,0.4-0.1,0.6-0.1
+					<path class="st14" d="M411.3,1021.3c-0.3,0-0.4,0-0.7,0.1c0.4,0,0.7,0,1.1,0c0.2,0,0.4-0.1,0.6-0.1
 						C411.9,1021.3,411.6,1021.3,411.3,1021.3z"/>
-					<path class="st13" d="M1429.6,1005.4l-0.2,0c0.2,0,0.4,0,0.5,0C1429.7,1005.4,1429.7,1005.4,1429.6,1005.4z"/>
-					<polygon class="st13" points="593.2,1009.6 593.2,1009.5 592.2,1009.6 					"/>
-					<path class="st13" d="M1491.3,1000.7c0.1,0,0.4,0,0.8,0C1492.1,1000.6,1491.7,1000.7,1491.3,1000.7z"/>
-					<path class="st13" d="M1518.1,999.7l3.8-0.1C1520.2,999.6,1519,999.6,1518.1,999.7z"/>
-					<path class="st13" d="M1538.6,999.1c0.3,0,0.3,0,0.4-0.1c0,0,0,0,0,0L1538.6,999.1z"/>
-					<path class="st13" d="M1212.1,1018.1c-0.3,0-0.5,0-0.8,0C1209.4,1018.2,1210.7,1018.2,1212.1,1018.1z"/>
-					<path class="st13" d="M1309.4,1014.6c-1,0.1-2,0.2-3.1,0.2C1308,1014.8,1309.4,1014.8,1309.4,1014.6z"/>
-					<path class="st13" d="M1103.3,1016C1103.3,1016,1103.3,1016,1103.3,1016c-0.2,0-0.4,0-0.7-0.1L1103.3,1016z"/>
-					<path class="st13" d="M1301.8,1015.1c1.7,0,3.2-0.1,4.5-0.2C1304.9,1014.9,1303.2,1015,1301.8,1015.1z"/>
-					<path class="st13" d="M1627.8,998l1,0c0,0,0,0,0.1,0L1627.8,998z"/>
-					<path class="st13" d="M1628.9,998l1.1,0C1629.5,998,1629.1,998,1628.9,998z"/>
-					<path class="st13" d="M1632.3,998l-2.3,0C1630.8,998,1631.8,998,1632.3,998z"/>
-					<path class="st13" d="M1600.6,998l-0.3,0C1600.4,998,1600.5,998,1600.6,998z"/>
-					<path class="st13" d="M1592.3,998.1c2,0,5,0,7.7,0l0.3,0C1599,998,1594.2,998,1592.3,998.1z"/>
-					<path class="st13" d="M1557.7,998.3l6.9-0.1c-1.2,0-2.8,0,0.3-0.1C1556.3,998.2,1566.8,998.1,1557.7,998.3z"/>
-					<path class="st13" d="M1536.2,998.7c3.7-0.1,0-0.1,0.2-0.1C1534,998.7,1533.4,998.7,1536.2,998.7z"/>
-					<path class="st13" d="M1381.3,1009.8l0.4-0.2C1378.8,1009.9,1381.6,1009.7,1381.3,1009.8z"/>
-					<polygon class="st13" points="1351.7,1012.6 1354.5,1012.6 1355.8,1012.3 					"/>
-					<polygon class="st13" points="1334.1,1012.3 1335.3,1012.2 1330.5,1012.5 					"/>
-					<path class="st13" d="M1073.5,1010.1l0.8,0.4C1076.3,1010.7,1076.7,1010.5,1073.5,1010.1z"/>
-					<path class="st13" d="M961,1003.3c-1.2-0.2-4.4-0.4-6.3-0.3C957.2,1003.1,959.7,1003.3,961,1003.3z"/>
-					<polygon class="st13" points="622.9,1005.5 625.2,1005.3 620.9,1005.6 					"/>
+					<path class="st14" d="M1429.6,1005.4l-0.2,0c0.2,0,0.4,0,0.5,0C1429.7,1005.4,1429.7,1005.4,1429.6,1005.4z"/>
+					<polygon class="st14" points="593.2,1009.6 593.2,1009.5 592.2,1009.6 					"/>
+					<path class="st14" d="M1491.3,1000.7c0.1,0,0.4,0,0.8,0C1492.1,1000.6,1491.7,1000.7,1491.3,1000.7z"/>
+					<path class="st14" d="M1518.1,999.7l3.8-0.1C1520.2,999.6,1519,999.6,1518.1,999.7z"/>
+					<path class="st14" d="M1538.6,999.1c0.3,0,0.3,0,0.4-0.1c0,0,0,0,0,0L1538.6,999.1z"/>
+					<path class="st14" d="M1212.1,1018.1c-0.3,0-0.5,0-0.8,0C1209.4,1018.2,1210.7,1018.2,1212.1,1018.1z"/>
+					<path class="st14" d="M1309.4,1014.6c-1,0.1-2,0.2-3.1,0.2C1308,1014.8,1309.4,1014.8,1309.4,1014.6z"/>
+					<path class="st14" d="M1103.3,1016C1103.3,1016,1103.3,1016,1103.3,1016c-0.2,0-0.4,0-0.7-0.1L1103.3,1016z"/>
+					<path class="st14" d="M1301.8,1015.1c1.7,0,3.2-0.1,4.5-0.2C1304.9,1014.9,1303.2,1015,1301.8,1015.1z"/>
+					<path class="st14" d="M1627.8,998l1,0c0,0,0,0,0.1,0L1627.8,998z"/>
+					<path class="st14" d="M1628.9,998l1.1,0C1629.5,998,1629.1,998,1628.9,998z"/>
+					<path class="st14" d="M1632.3,998l-2.3,0C1630.8,998,1631.8,998,1632.3,998z"/>
+					<path class="st14" d="M1600.6,998l-0.3,0C1600.4,998,1600.5,998,1600.6,998z"/>
+					<path class="st14" d="M1592.3,998.1c2,0,5,0,7.7,0l0.3,0C1599,998,1594.2,998,1592.3,998.1z"/>
+					<path class="st14" d="M1557.7,998.3l6.9-0.1c-1.2,0-2.8,0,0.3-0.1C1556.3,998.2,1566.8,998.1,1557.7,998.3z"/>
+					<path class="st14" d="M1536.2,998.7c3.7-0.1,0-0.1,0.2-0.1C1534,998.7,1533.4,998.7,1536.2,998.7z"/>
+					<path class="st14" d="M1381.3,1009.8l0.4-0.2C1378.8,1009.9,1381.6,1009.7,1381.3,1009.8z"/>
+					<polygon class="st14" points="1351.7,1012.6 1354.5,1012.6 1355.8,1012.3 					"/>
+					<polygon class="st14" points="1334.1,1012.3 1335.3,1012.2 1330.5,1012.5 					"/>
+					<path class="st14" d="M1073.5,1010.1l0.8,0.4C1076.3,1010.7,1076.7,1010.5,1073.5,1010.1z"/>
+					<path class="st14" d="M961,1003.3c-1.2-0.2-4.4-0.4-6.3-0.3C957.2,1003.1,959.7,1003.3,961,1003.3z"/>
+					<polygon class="st14" points="622.9,1005.5 625.2,1005.3 620.9,1005.6 					"/>
 				</g>
 			</g>
 		</g>
@@ -1720,6 +1724,6 @@
 <path d="M827.8,815.8c-0.4,1.4-0.7,2.5-1.1,3.6c-0.2,0.7-0.4,0.7-1.1,0.2c0.3-1,0.6-1.9,0.8-2.8
 	C826.6,816.3,826.9,815.9,827.8,815.8z"/>
 <path d="M818.2,1031.7c-0.3,0-0.5,0-0.8,0c0-0.1,0-0.2,0-0.2c0.3,0,0.5,0,0.8-0.1C818.2,1031.5,818.2,1031.6,818.2,1031.7z"/>
-<polygon class="st3" points="558.5,1007.9 599.1,1005.7 696.3,1003.9 730.9,1002 799.8,1002.4 837.4,1000.4 911.1,931.4 
+<polygon class="st2" points="558.5,1007.9 599.1,1005.7 696.3,1003.9 730.9,1002 799.8,1002.4 837.4,1000.4 911.1,931.4 
 	888.4,738.3 582.5,754.6 483,814.2 521.4,995.5 "/>
 </svg>
